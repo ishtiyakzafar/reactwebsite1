@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/reactwebsite1/static/css/main.bf047770.chunk.css",
+    "main.js": "/reactwebsite1/static/js/main.477ca507.chunk.js",
+    "main.js.map": "/reactwebsite1/static/js/main.477ca507.chunk.js.map",
+    "runtime-main.js": "/reactwebsite1/static/js/runtime-main.66702a9f.js",
+    "runtime-main.js.map": "/reactwebsite1/static/js/runtime-main.66702a9f.js.map",
+    "static/css/2.b9b989d7.chunk.css": "/reactwebsite1/static/css/2.b9b989d7.chunk.css",
+    "static/js/2.312ca706.chunk.js": "/reactwebsite1/static/js/2.312ca706.chunk.js",
+    "static/js/2.312ca706.chunk.js.map": "/reactwebsite1/static/js/2.312ca706.chunk.js.map",
+    "index.html": "/reactwebsite1/index.html",
+    "static/css/2.b9b989d7.chunk.css.map": "/reactwebsite1/static/css/2.b9b989d7.chunk.css.map",
+    "static/css/main.bf047770.chunk.css.map": "/reactwebsite1/static/css/main.bf047770.chunk.css.map",
+    "static/js/2.312ca706.chunk.js.LICENSE.txt": "/reactwebsite1/static/js/2.312ca706.chunk.js.LICENSE.txt",
+    "static/media/abt_img.1ed47ab4.jpg": "/reactwebsite1/static/media/abt_img.1ed47ab4.jpg",
+    "static/media/card1.40a79306.jpg": "/reactwebsite1/static/media/card1.40a79306.jpg",
+    "static/media/card2.ebee4127.jpg": "/reactwebsite1/static/media/card2.ebee4127.jpg",
+    "static/media/card3.518baf6f.jpg": "/reactwebsite1/static/media/card3.518baf6f.jpg",
+    "static/media/card4.927214a7.jpg": "/reactwebsite1/static/media/card4.927214a7.jpg",
+    "static/media/card5.c109dbcc.jpg": "/reactwebsite1/static/media/card5.c109dbcc.jpg",
+    "static/media/card6.02d71a5c.jpg": "/reactwebsite1/static/media/card6.02d71a5c.jpg",
+    "static/media/hom_img.c98f2d11.png": "/reactwebsite1/static/media/hom_img.c98f2d11.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66702a9f.js",
+    "static/css/2.b9b989d7.chunk.css",
+    "static/js/2.312ca706.chunk.js",
+    "static/css/main.bf047770.chunk.css",
+    "static/js/main.477ca507.chunk.js"
+  ]
+}
